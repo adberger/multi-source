@@ -7,4 +7,4 @@ prometheus:
 nodeExporter:
   enabled: false
 kubeStateMetrics:
-  enabled: true
+  enabled: false
